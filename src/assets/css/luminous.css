@@ -1,0 +1,182 @@
+@media only screen and (min-width:0px) and (max-width: 320px) {
+  .home-control{
+    flex-direction: column;
+  }
+  .flutter-hero-section{
+    width: 0%;
+  }
+  .flutterwave-logo{
+    width: 130px;
+    height: auto;
+  }
+  .orange-create-event{
+    padding: 0px !important;
+    display: none;
+  }
+  .mobile{
+    display: block !important;
+    padding: 10px 10px !important;
+  }
+  .date-text{
+    margin-top: 0px;
+  }
+  .home-control-picture-one, .home-control-picture-two, .home-control-picture-three{
+    margin-bottom: 1.2em;
+  }
+  .ticket-not-gotten{
+    display: none;
+  }
+  .hero-section-container{
+    justify-content: space-between !important;
+    flex-direction: row;
+
+  }
+  .flutter-picture-one, .flutter-picture-two, .flutter-picture-three{
+    width: 100%;
+  }
+  .flutter-buttons{
+    margin-top: 0em !important;
+  }
+
+}
+/*< XS END*/
+
+/*< XS*/
+@media only screen and (min-width: 321px) and (max-width: 575px) {
+  .ticket-not-gotten{
+    display: none;
+  }
+  .home-control{
+    flex-direction: column;
+  }
+  .flutter-hero-section{
+    width: 0%;
+  }
+  .flutterwave-logo{
+    width: 130px;
+    height: auto;
+  }
+  .orange-create-event{
+    padding: 0px !important;
+    display: none;
+  }
+  .mobile{
+    display: block !important;
+    padding: 10px 20px !important;
+  }
+  .date-text{
+    margin-top: 0px;
+  }
+  .home-control-picture-one, .home-control-picture-two, .home-control-picture-three{
+    margin-bottom: 1.2em;
+  }
+  .ticket-not-gotten{
+    display: none;
+  }
+  .hero-section-container{
+    justify-content: space-between !important;
+    flex-direction: row;
+
+  }
+  .flutter-picture-one, .flutter-picture-two, .flutter-picture-three{
+    width: 100%;
+  }
+  .flutter-buttons{
+    margin-top: 0em !important;
+  }
+
+}
+/*< XS END*/
+
+/*< SM*/
+@media only screen and (min-width: 576px) and (max-width: 767px){
+  .ticket-not-gotten{
+    display: none;
+  }
+  .home-control{
+    flex-direction: column;
+  }
+  .flutter-hero-section{
+    width: 0%;
+  }
+  .flutterwave-logo{
+    width: 130px;
+    height: auto;
+  }
+  .orange-create-event{
+    padding: 0px !important;
+    display: none;
+  }
+  .mobile{
+    display: block !important;
+    padding: 10px 20px !important;
+  }
+  .date-text{
+    margin-top: 0px;
+  }
+  .home-control-picture-one, .home-control-picture-two, .home-control-picture-three{
+    margin-bottom: 1.2em;
+  }
+  .ticket-not-gotten{
+    display: none;
+  }
+  .hero-section-container{
+    justify-content: space-between !important;
+    flex-direction: row;
+
+  }
+  .flutter-picture-one, .flutter-picture-two, .flutter-picture-three{
+    width: 100%;
+  }
+  .flutter-buttons{
+    margin-top: 0em !important;
+  }
+}
+/*< SM END*/
+
+/*< MD*/
+@media only screen and (min-width:768px) and (max-width: 991px) {
+
+}
+/*< MD END*/
+
+/*<LG*/
+@media only screen and (min-width: 992px) and (max-width: 1199px) {}
+/*< LG END*/
+
+/*< Special (iPad)*/
+@media only screen and (min-width: 768px)  and (min-height: 992px) {
+  .flutter-hero-section{
+    width: 35% !important;
+  }
+  .home-home{
+    text-align: center !important;
+  }
+  .home-control{
+    flex-direction: column;
+  }
+
+
+
+}
+/*< Special (iPad) END*/
+
+/*< Special (iPad Pro)*/
+@media only screen and (min-width: 992px)  and (min-height: 992px) {
+  .flutter-hero-section{
+    width: 35% !important;
+  }
+  .home-home{
+    text-align: center !important;
+  }
+  .home-control{
+    flex-direction: column;
+  }
+
+
+}
+/*< Special (iPad Pro) END*/
+
+/*< XL*/
+@media (min-width: 1200px) { }
+/*< XL END*/
