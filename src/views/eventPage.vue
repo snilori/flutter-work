@@ -167,6 +167,7 @@ export default {
 
   .location-event-control {
     display: flex;
+    flex-wrap: wrap;
   }
 
   .event-control-alpha {

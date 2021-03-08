@@ -29,6 +29,7 @@
   .hero-section-container{
     justify-content: space-between !important;
     flex-direction: row;
+    margin: 3% 5% !important;
 
   }
   .flutter-picture-one, .flutter-picture-two, .flutter-picture-three{
@@ -36,6 +37,39 @@
   }
   .flutter-buttons{
     margin-top: 0em !important;
+  }
+  .container {
+    padding: 0.1rem 0rem !important;
+  }
+  .event-control-alpha{
+    width: 100% !important;
+    margin: 0 5%;
+  }
+  .event-control-beta{
+    width: 100% !important;
+    height: 50vw !important;
+    margin: 35px 20px !important;
+  }
+  .location-event-control-alpha{
+    width: 100% !important;
+    /* margin-left: 7%; */
+    margin: 0 5%;
+  }
+  .location-event-control-beta{
+    margin: 0 5%;
+  }
+  .copyright-flutter{
+    margin: 0 12% !important;
+  }
+  .conditions-list {
+    margin-top: 0 !important;
+  }
+  .footer-control{
+    margin-top: 3em;
+  }
+  .nathan-cole-header{
+    font-size: 32px !important;
+    line-height: 36px !important;
   }
 
 }
@@ -76,6 +110,7 @@
   .hero-section-container{
     justify-content: space-between !important;
     flex-direction: row;
+    margin: 3% 5% !important;
 
   }
   .flutter-picture-one, .flutter-picture-two, .flutter-picture-three{
@@ -84,6 +119,41 @@
   .flutter-buttons{
     margin-top: 0em !important;
   }
+  .container {
+    padding: 0.1rem 0rem !important;
+  }
+  .event-control-alpha{
+    width: 100% !important;
+    margin: 0 5%;
+  }
+  .event-control-beta{
+    width: 100% !important;
+    height: 50vw !important;
+    margin: 35px 20px !important;
+  }
+  .location-event-control-alpha{
+    width: 100% !important;
+    /* margin-left: 7%; */
+    margin: 0 5%;
+  }
+  .location-event-control-beta{
+    margin: 0 5%;
+  }
+  .copyright-flutter{
+    margin: 0 12% !important;
+  }
+  .conditions-list {
+    margin-top: 0 !important;
+  }
+  .footer-control{
+    margin-top: 3em;
+  }
+  .nathan-cole-header{
+    font-size: 32px !important;
+    line-height: 36px !important;
+  }
+
+
 
 }
 /*< XS END*/
@@ -123,6 +193,7 @@
   .hero-section-container{
     justify-content: space-between !important;
     flex-direction: row;
+    margin: 3% 5% !important;
 
   }
   .flutter-picture-one, .flutter-picture-two, .flutter-picture-three{
@@ -131,11 +202,85 @@
   .flutter-buttons{
     margin-top: 0em !important;
   }
+  .container {
+    padding: 0.1rem 0rem !important;
+  }
+  .event-control-alpha{
+    width: 100% !important;
+    margin: 0 5%;
+  }
+  .event-control-beta{
+    width: 100% !important;
+    height: 50vw !important;
+    margin: 35px 20px !important;
+  }
+  .location-event-control-alpha{
+    width: 100% !important;
+    /* margin-left: 7%; */
+    margin: 0 5%;
+  }
+  .location-event-control-beta{
+    margin: 0 5%;
+  }
+  .copyright-flutter{
+    margin: 0 12% !important;
+  }
+  .conditions-list {
+    margin-top: 0 !important;
+  }
+  .footer-control{
+    margin-top: 3em;
+  }
+  .nathan-cole-header{
+    font-size: 32px !important;
+    line-height: 36px !important;
+  }
+
+
 }
 /*< SM END*/
 
 /*< MD*/
 @media only screen and (min-width:768px) and (max-width: 991px) {
+  .container {
+    padding: 0.1rem 0rem !important;
+  }
+  .event-control-alpha{
+    width: 100% !important;
+    margin: 0 5%;
+  }
+  .event-control-beta{
+    width: 100% !important;
+    height: 50vw !important;
+    margin: 35px 20px !important;
+  }
+  .location-event-control-alpha{
+    width: 100% !important;
+    /* margin-left: 7%; */
+    margin: 0 5%;
+  }
+  .location-event-control-beta{
+    margin: 0 5%;
+  }
+  .hero-section-container{
+    justify-content: space-between !important;
+    flex-direction: row;
+    margin: 3% 5% !important;
+
+  }
+  .copyright-flutter{
+    margin: 0 12% !important;
+  }
+  .conditions-list {
+    margin-top: 0 !important;
+  }
+  .footer-control{
+    margin-top: 3em;
+  }
+  .nathan-cole-header{
+    font-size: 32px !important;
+    line-height: 36px !important;
+  }
 
 }
 /*< MD END*/
@@ -153,7 +298,14 @@
     text-align: center !important;
   }
   .home-control{
-    flex-direction: column;
+    flex-direction: row;
+
+  }
+  .container {
+    padding: 0.1rem 2rem !important;
+  }
+  .footer-control{
+    margin-top: 3em;
   }
 
 
@@ -170,7 +322,11 @@
     text-align: center !important;
   }
   .home-control{
-    flex-direction: column;
+    flex-direction: row;
+
+  }
+  .footer-control{
+    margin-top: 3em;
   }
 
 
